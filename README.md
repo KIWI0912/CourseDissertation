@@ -36,6 +36,8 @@ This repository contains implementations of Diffusion Models and Generative Adve
    jupyter notebook main.ipynb
    ```
 
+or you can just download the main.ipynb file and run on your own computer.
+
 ## Usage
 
 The notebook includes:
