@@ -21,7 +21,7 @@ This repository contains implementations of Diffusion Models and Generative Adve
 1. Clone the repository:
    ```bash
    git clone https://github.com/KIWI0912/Diffusion_Models_and_GANs.git
-   cd repositoryname
+   cd Diffusion_Models_and_GANs
    ```
 
 2. Create a conda environment and install dependencies:
