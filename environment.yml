@@ -1,0 +1,12 @@
+name: diffusion_gan_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - matplotlib
+  - tqdm
+  - pip:
+    - torch
+    - torchvision
