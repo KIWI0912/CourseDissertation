@@ -28,6 +28,7 @@ This repository contains implementations of Diffusion Models and Generative Adve
    ```bash
    conda env create -f environment.yml
    conda activate diffusion_gan_env
+   conda install -c conda-forge notebook
    ```
 
 3. Run the Jupyter Notebook:
