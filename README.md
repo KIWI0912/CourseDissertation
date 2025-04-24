@@ -20,7 +20,7 @@ This repository contains implementations of Diffusion Models and Generative Adve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   git clone https://github.com/KIWI0912/Diffusion_Models_and_GANs.git
    cd repositoryname
    ```
 
@@ -32,7 +32,7 @@ This repository contains implementations of Diffusion Models and Generative Adve
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook Untitled-1.ipynb
+   jupyter notebook main.ipynb
    ```
 
 ## Usage
