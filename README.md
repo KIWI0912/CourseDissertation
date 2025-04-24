@@ -4,7 +4,7 @@ This repository contains implementations of Diffusion Models and Generative Adve
 
 ## Contents
 
-- `Untitled-1.ipynb`: Jupyter Notebook with the implementation of GAN and DDPM.
+- `main.ipynb`: Jupyter Notebook with the implementation of GAN and DDPM.
 - `environment.yml`: Conda environment file to set up the required dependencies.
 
 ## Requirements
